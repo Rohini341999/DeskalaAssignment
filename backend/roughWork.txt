@@ -1,0 +1,48 @@
+Cluster name : LoginRegCandidate
+
+username : Deskala1234
+password : yaZGXIRlHCZ1z6SB
+
+connection attempt  IP Access List          Description
+1                   103.178.126.54/32       My IP Address
+2                   103.178.126.38/32  (includes your current IP address)
+
+
+Mongodb compass connection string :
+mongodb+srv://Deskala1234:yaZGXIRlHCZ1z6SB@loginregcandidate.fgpi55v.mongodb.net/test
+
+CONNECT_APPLICATION_STRING = mongodb+srv://Deskala1234:yaZGXIRlHCZ1z6SB@loginregcandidate.fgpi55v.mongodb.net/?retryWrites=true&w=majority
+
+Database name : CandidateLoginReg
+Collection name : RegistrationLoginDetails
+
+
+
+name : "Bhushan Koli"
+email : "bhushu@gmail.com"
+dob : "26/01/1998"
+state : "Bangalore"
+age : 25
+pincode : 400604
+__v
+0
+_id
+62a5dda894bfb99c223f6c2a
+name : "Rohini Koli"
+email : "rohinikoli@gmail.com"
+dob : "03/04/1999"
+state : "Pune"
+age : 24
+pincode : 421301
+__v
+0
+_id
+62a5f80c1a148dadf48c01ab
+name : "Sanket Gadge"
+email : "gadgesanket75@gmail.com"
+dob : "02/09/1998"
+state : "Pune"
+age : 25
+pincode : 421302
+__v
+0
